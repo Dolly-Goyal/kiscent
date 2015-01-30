@@ -1,0 +1,176 @@
+/*
+Design by kriscent
+http://www.kriscent.in
+*/
+body{
+	font:"Times New Roman", Times, serif;
+	color: #000000;
+	background:#BCBCBC;
+	line-height: 17px;
+}
+
+#main {
+	width: 1014px;
+	margin:0px auto;
+	padding: 0px 13px 0px 13px;
+}
+
+#header { 
+width:1014px;
+padding: 0px 0px 0px 0px;
+background: left top no-repeat;
+}
+
+#buttons{
+padding: 210px 0px 0px 1600px;
+	width: 1000px;
+	background:url(../images/kriscentdecor.jpg) left top no-repeat;
+	text-align:center;
+	padding-left:40px;
+	height: 118px;
+	color:#008080;
+}
+
+#buttons a {
+	font-family:"Times New Roman", Times, serif;
+	font-size: 22px;
+	display: block;
+	float: left;
+	height: 35px;
+	text-decoration: none;
+	color: #FFFFFF;
+	padding-top: 20px;
+	padding-left: 0px;
+	text-align: center;
+	width: 122px;
+
+	text-transform:inherit;
+}
+
+.but{
+padding-top: 70px;
+width: 122px;
+float:left;}
+
+#buttons a:hover {
+	width: 122px;
+	height: 35px;
+	color:#0069D2;
+	background:url(../images/hov.png);
+	background-repeat:no-repeat;
+	background-position:center;
+}
+
+#center_body{
+	width: 1014px;
+	height:900px;
+	padding: 8px 0px 0px 0px;
+	background-color:#D9D9FF;
+	margin: 0px 0px 0px 0px;
+}
+
+#left{
+	width: 675px;
+	height:auto;
+	margin: 0px 0px 0px 8px;
+	float: left;
+	color:#000000;
+}
+.menu_bar { background:url(../images/menu_bar.png) left top no-repeat;
+}
+#left H1{
+	font-family:"Times New Roman", Times, serif;
+	font-size:35px;
+	font-weight: 100;
+	color:#9DCEFF;
+	text-align:center;
+	padding: 15px 0px 15px 0px;
+	text-transform:inherit;
+}
+.text{
+	padding: 0px 0px 0px 0px;
+	color:#535300;
+}
+.img {	float:left;
+		margin: 4px 16px 3px 0px;
+}
+
+.cn
+{
+padding-left:20%;
+padding-top:1%;
+}
+
+#left span {	color:#B00000;
+		font-weight:bold;
+		font-size:20px;
+}
+
+
+.read{
+	text-align:right;
+	padding-right:10px;
+	padding-top: 10px;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+
+
+
+.right_b {	background:url(../images/logokriscent.jpg)  0px 2px no-repeat;
+		padding-left: 20px;
+		padding-right: 5px;
+}
+
+#right{
+float: right;
+width: 294px;
+height:auto;
+margin-right: 13px;
+padding: 0px 0px 0px 0px;
+}
+
+#right span {	color:#294D01;
+		font-weight:bold;
+		text-decoration:underline;
+}
+
+
+#right H1{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:20px;
+	font-weight: 100;
+	color: #294D01;
+	padding-top: 12px;
+	padding-left: 0px;
+	text-align: left;
+	padding: 15px 0px 15px 0px;
+	text-transform:inherit;
+}
+
+
+
+
+#footer{
+	height: 43px;
+	width: 100%;
+	font-size: 12px;
+	color: #F95100;
+	text-align: center;
+	clear:both;
+	padding: 60px 0px 0px 0px;
+
+}
+
+#footer a{
+	color:#F95100;
+	font-size: 12px;
+	text-decoration: none;
+}
+
+#footer a:hover{
+	color:#FFAE5E;
+	font-size: 12px;
+	text-decoration: underline;
+}
